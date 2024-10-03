@@ -1,0 +1,18 @@
+{
+  "name": "econanringo.github.io",
+  "version": "1.0.0",
+  "description": "EconanのGitHub Pages",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Hello: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "econanringo.github.io"
+  },
+  "author": "econanringo",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.0"
+  }
+}
